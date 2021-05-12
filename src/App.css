@@ -1,0 +1,72 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'PT Sans', sans-serif;
+}
+
+.home,
+.services,
+.products,
+.blog,
+.sign-up {
+  display: flex;
+  height: 90vh;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+}
+.aboutme
+{
+  background-image: url('project2.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color:black;
+}
+.about-me
+{
+  background-image: url('project.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+}
+
+.products {
+  background-image: url('project1.jpg');
+  background-position: center;
+  background-size: fill;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+.blog {
+  background-image: url('blog.jpg');
+  background-position: center;
+  background-size: fill;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 60px;
+  font-style:italic;
+}
+
+.sign-up {
+  /* background-image: url('/images/img-8.jpg'); */
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.paratext
+{
+  text-align: center;
+  font-size:x-large;
+  color:whitesmoke;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+
+
+}
+

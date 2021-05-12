@@ -1,0 +1,155 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+}
+.allskills{
+  background-image: url('img-1.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+h1 {
+  text-align: center;
+  font-size: 60px;
+}
+
+.skills-area {
+  display: flex;
+  flex-direction: column;
+  padding: 0 20%;
+  
+}
+
+.skill {
+  position: relative;
+  margin-bottom: 20px;
+}
+
+.skill-title {
+  font-size: 25px;
+  margin-bottom: 10px;
+  color: whitesmoke;
+}
+
+.skill-bar {
+  width: 100%;
+  background: rgba(255, 255, 255, 0.6);
+  height: 40px;
+  z-index: -1;
+  border-radius: 100px;
+  position: absolute;
+}
+
+.skill-fill {
+  background:yellowgreen;
+  height: 30px;
+  border-radius: 100px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding-right: 30px;
+  overflow: hidden;
+}
+
+.skill-percent {
+  font-size: 25px;
+}
+
+.react {
+  animation: react 4s;
+  width: 60%;
+}
+
+.java {
+  animation: java 4s;
+  width: 80%;
+}
+
+.python {
+  animation: python 4s;
+  width: 65%;
+}
+.c {
+  animation: c 4s;
+  width: 50%;
+}
+.spring {
+  animation: spring 4s;
+  width: 60%;
+}
+.dl{
+  animation: dl 4s;
+  width: 50%;
+}
+.javascript{
+  animation: dl 4s;
+  width: 65%;
+}
+@keyframes react {
+  from {
+    width: 0;
+  }
+  to {
+    width: 50%;
+  }
+}
+@keyframes java {
+  from {
+    width: 0;
+  }
+  to {
+    width: 80%;
+  }
+}
+@keyframes c {
+  from {
+    width: 0;
+  }
+  to {
+    width: 50%;
+  }
+}
+
+@keyframes dl {
+  from {
+    width: 0;
+  }
+  to {
+    width: 50%;
+  }
+}
+@keyframes spring {
+  from {
+    width: 0;
+  }
+  to {
+    width: 70%;
+  }
+}
+
+@keyframes python {
+  from {
+    width: 0;
+  }
+  to {
+    width: 60%;
+  }
+}
+
+@media only screen and (max-width: 750px) {
+  .skills-area {
+    padding: 0 5%;
+  }
+}
+.Text{
+  color: black;
+  text-align: center;
+  font-style: italic;
+  font-family: cursive;
+}

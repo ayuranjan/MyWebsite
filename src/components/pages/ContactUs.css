@@ -1,0 +1,43 @@
+
+.container
+{
+    width: auto;
+    text-align: center;
+    height: auto;
+    background-image: url('cat.jpg');
+   background-size:cover;
+   background-repeat: no-repeat;
+   background-position: center;
+    margin-top: -2rem;
+    
+    
+    
+}
+.form{
+   text-align: center;
+}
+.name{
+
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+
+.email{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.subject{
+    margin-bottom: 1rem;
+}
+.message{
+    margin-bottom: 1rem;
+}
+.sendMessage{
+    margin-bottom: 1rem;
+}
+.Text{
+    color: white;
+    text-align: center;
+    font-style: italic;
+    font-family: cursive;
+  }
