@@ -2,7 +2,7 @@ let timelineElements = [
     {
       id: 1,
       title: "Senior Anlayst @ Capgemini",
-      location: "Bangalore, Karnataka ,Jharkhand",
+      location: "Yet to be decided ",
       description:
         "Full Stack Developer ",
       date: "May 2021 - present",

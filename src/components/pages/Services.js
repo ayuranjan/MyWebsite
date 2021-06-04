@@ -7,7 +7,7 @@ export default function Services() {
   return (
     <div className>
        <SkillsSection/>
-
+        
     </div>
 )
 }
