@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/MyWebsite/static/css/main.57da38fb.chunk.css",
-    "main.js": "/MyWebsite/static/js/main.2622f5c5.chunk.js",
-    "main.js.map": "/MyWebsite/static/js/main.2622f5c5.chunk.js.map",
+    "main.css": "/MyWebsite/static/css/main.8e8507ff.chunk.css",
+    "main.js": "/MyWebsite/static/js/main.a735999f.chunk.js",
+    "main.js.map": "/MyWebsite/static/js/main.a735999f.chunk.js.map",
     "runtime-main.js": "/MyWebsite/static/js/runtime-main.bc1ec3ad.js",
     "runtime-main.js.map": "/MyWebsite/static/js/runtime-main.bc1ec3ad.js.map",
     "static/css/2.6a591a6e.chunk.css": "/MyWebsite/static/css/2.6a591a6e.chunk.css",
-    "static/js/2.3aca466e.chunk.js": "/MyWebsite/static/js/2.3aca466e.chunk.js",
-    "static/js/2.3aca466e.chunk.js.map": "/MyWebsite/static/js/2.3aca466e.chunk.js.map",
+    "static/js/2.11a9304f.chunk.js": "/MyWebsite/static/js/2.11a9304f.chunk.js",
+    "static/js/2.11a9304f.chunk.js.map": "/MyWebsite/static/js/2.11a9304f.chunk.js.map",
     "static/js/3.49ed8b1b.chunk.js": "/MyWebsite/static/js/3.49ed8b1b.chunk.js",
     "static/js/3.49ed8b1b.chunk.js.map": "/MyWebsite/static/js/3.49ed8b1b.chunk.js.map",
     "index.html": "/MyWebsite/index.html",
     "static/css/2.6a591a6e.chunk.css.map": "/MyWebsite/static/css/2.6a591a6e.chunk.css.map",
-    "static/css/main.57da38fb.chunk.css.map": "/MyWebsite/static/css/main.57da38fb.chunk.css.map",
-    "static/js/2.3aca466e.chunk.js.LICENSE.txt": "/MyWebsite/static/js/2.3aca466e.chunk.js.LICENSE.txt",
+    "static/css/main.8e8507ff.chunk.css.map": "/MyWebsite/static/css/main.8e8507ff.chunk.css.map",
+    "static/js/2.11a9304f.chunk.js.LICENSE.txt": "/MyWebsite/static/js/2.11a9304f.chunk.js.LICENSE.txt",
     "static/media/Star.cfbcea70.mp4": "/MyWebsite/static/media/Star.cfbcea70.mp4",
     "static/media/banking.b88e7f11.jpg": "/MyWebsite/static/media/banking.b88e7f11.jpg",
-    "static/media/App.css": "/MyWebsite/static/media/project1.b5d4ba47.jpg",
+    "static/media/App.css": "/MyWebsite/static/media/project2.ccad2c09.jpg",
     "static/media/ContactUs.css": "/MyWebsite/static/media/cat.e5ebf37e.jpg",
     "static/media/cnn.e63f0566.jpg": "/MyWebsite/static/media/cnn.e63f0566.jpg",
     "static/media/college.730fd363.svg": "/MyWebsite/static/media/college.730fd363.svg",
     "static/media/covid.a3c1a1a9.jpg": "/MyWebsite/static/media/covid.a3c1a1a9.jpg",
-    "static/media/SkillsSection.css": "/MyWebsite/static/media/img-1.c866a8b8.jpeg",
+    "static/media/SkillsSection.css": "/MyWebsite/static/media/img-1.53f48437.jpg",
     "static/media/me.a8843826.png": "/MyWebsite/static/media/me.a8843826.png",
     "static/media/medal.194a5c59.svg": "/MyWebsite/static/media/medal.194a5c59.svg",
     "static/media/opencv.cd976014.jpg": "/MyWebsite/static/media/opencv.cd976014.jpg",
@@ -32,8 +32,8 @@
   "entrypoints": [
     "static/js/runtime-main.bc1ec3ad.js",
     "static/css/2.6a591a6e.chunk.css",
-    "static/js/2.3aca466e.chunk.js",
-    "static/css/main.57da38fb.chunk.css",
-    "static/js/main.2622f5c5.chunk.js"
+    "static/js/2.11a9304f.chunk.js",
+    "static/css/main.8e8507ff.chunk.css",
+    "static/js/main.a735999f.chunk.js"
   ]
 }
